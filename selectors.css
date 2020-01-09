@@ -1,0 +1,14 @@
+article section div {
+    line-height: 1.5em;
+}
+
+.Jim-image {
+    padding: 20px 0px 40px 0px;
+}
+
+body {
+    background-image: url("https://cdn.nashvillescene.com/files/base/scomm/nvs/image/2019/08/16x9/320w/JimCooper_0395.5d5c522f64a84.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 120%;
+   }
